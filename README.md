@@ -67,7 +67,7 @@ Answer the following question:
 
 * What are the best _k_ hashes and _m_ bits values to store one million _n_ keys (E.g. e52f43cd2c23bb2e6296153748382764) suppose we use the same MD5 hash key from [pickle_hash.py](https://github.com/sithu/cmpe273-spring20/blob/master/midterm/pickle_hash.py#L14) and explain why?
 
-ANSWER:
+### ANSWER:
 Based on the formula of getting the hash count and array size and with the assumption of 1 percent false positive rate, we can calculate the most efficient _k_ and _m_. 
 
 _size = (array_size/item_count) * log(2)_<br />
