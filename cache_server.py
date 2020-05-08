@@ -52,7 +52,7 @@ class UDPServer():
             return self.db.put(key, value)
         elif operation == 'DELETE':
             if self.db.delete(key):
-                return {"Success"}
+                return "Success"
 
         else:
             print(f'Error: Invalid operation={operation}')
