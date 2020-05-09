@@ -1,0 +1,13 @@
+fibonacci(6)=8
+{'id': 1, 'value': 'Foo Bar - 1'}
+{'id': 2, 'value': 'Foo Bar - 2'}
+{'id': 3, 'value': 'Foo Bar - 3'}
+{'id': 4, 'value': 'Foo Bar - 4'}
+{'id': 1, 'value': 'Foo Bar - 1'}
+{'id': 2, 'value': 'Foo Bar - 2'}
+{'id': 3, 'value': 'Foo Bar - 3'}
+{'id': 4, 'value': 'Foo Bar - 4'}
+{'id': 5, 'value': 'Foo Bar - 5'}
+{'id': 6, 'value': 'Foo Bar - 6'}
+Num of function calls:10
+Num of cache misses:6
