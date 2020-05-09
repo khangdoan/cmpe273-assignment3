@@ -29,6 +29,8 @@ In order to reduce unnecessary network calls to the servers, you will be adding 
 
 Implement LRU cache as Python decorator and you can pass cache size as argument.
 
+See test_lru_cache_output.txt for test output
+
 ```python
 @lru_cache(5)
 def get(...):
@@ -79,6 +81,8 @@ _Hash Count = -(items_count * log(falsePos_prob)) / (log(2) ^ 2)_ <br />
 _Hash Count_= 22070412.54/1000000*LOG(2) <br />
 _Hash Count_= int(6.64385619) <br />
 _Hash Count_= 6 <br />
+
+See test_bloom_filter_output.txt for test output 
 
 ```python
 @lru_cache(5)
