@@ -1,0 +1,12 @@
+'abound' is probably present!
+'abundant' is probably present!
+'abounds' is probably present!
+'bonny' is probably present!
+'bloom' is probably present!
+'twitter' is a false positive!
+'bolster' is probably present!
+'bonus' is probably present!
+'facebook' is definitely not present!
+'abundance' is probably present!
+'blossom' is probably present!
+'accessable' is probably present!
